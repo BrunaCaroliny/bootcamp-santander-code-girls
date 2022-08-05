@@ -1,6 +1,6 @@
-# Curso da DIO :writing_hand:
+# :heartpulse: Bootcamp Santander Code Girls :heartpulse:
 
-## Bootcamp Santander Code Girls :heartpulse:
+## Curso da DIO :writing_hand:
 
 > Eclipse
 
